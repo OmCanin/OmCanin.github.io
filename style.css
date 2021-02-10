@@ -84,12 +84,12 @@ Color 5 Blanco: FFFFFF;
 
 .oc-contacto{
 	background-color: #346432;
-	height: 650px;
+	height: 800px;
 }
 
 #Quienes{
 	background-image: url("Imagen-11.png");
-	height: 500px; 
+	height: 1080px; 
   	background-position: center; 
   	background-repeat: no-repeat; 
   	background-size: cover;
