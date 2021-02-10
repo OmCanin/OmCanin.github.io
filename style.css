@@ -1,0 +1,96 @@
+/*
+Color 1 Morado: AF1C99
+Color 2 Verde: 346432
+Color 3 Negro: 020202;
+Color 4 Gris Azulado: AFBCB3;
+Color 5 Blanco: FFFFFF;
+*/ 
+
+.font-Lora{
+	font-family: 'Lora', serif;
+}
+
+.font-Monse{
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+.colors1{
+	background-color: #FF6363;
+}
+.colors2{
+	background-color: #BBA1FF;
+}
+.colors3{
+	background-color: #E66CEF;
+}
+.colors4{
+	background-color: #F3C243;
+}
+.colors5{
+	background-color: #62C8AB;
+}
+.colors6{
+	background-color: #2490FC;
+}
+.colors7{
+	background-color: #F97308;
+}
+.colors8{
+	background-color: #8FE160;
+}
+
+.oc-box{
+	border-radius: 10px;
+	width: 200px;
+	padding: 3%;
+	text-align: center;
+	color: white;
+	margin-top: 1em;
+}
+.oc-box:hover{
+	width: 210px;
+	height: 100px;
+}
+.oc-box-redes{
+	border-radius: 10px;
+	border-color: green;
+	margin: 3%;
+	color: white;
+	font-weight: lighter;
+	background-color: #3a7832;
+	padding-left: 20px;	
+	min-width: 250px;
+}
+
+.oc-box-redes:hover{
+	background-color: #AF1C99;
+}
+.octext-green{
+	color: #346432;
+}
+.octext-violet{
+	color: #AF1C99;
+}
+
+.oc-title3{
+	color: #346432;
+	font-family: 'Lora', serif;
+}
+.oc-title33{
+	color: #AF1C99;
+	font-weight: bold;
+}
+
+.oc-contacto{
+	background-color: #346432;
+	height: 650px;
+}
+
+#Quienes{
+	background-image: url("Imagen-11.png");
+	height: 500px; 
+  	background-position: center; 
+  	background-repeat: no-repeat; 
+  	background-size: cover;
+}
