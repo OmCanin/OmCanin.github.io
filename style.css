@@ -94,3 +94,14 @@ Color 5 Blanco: FFFFFF;
   	background-repeat: no-repeat; 
   	background-size: cover;
 }
+
+@media only screen and (min-width: 800px) {
+  #Quienes {
+    height: 500px; 
+  }
+
+  .oc-contacto{
+	height: 650px;
+}
+}
+
